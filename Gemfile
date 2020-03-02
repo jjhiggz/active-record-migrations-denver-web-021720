@@ -11,3 +11,5 @@ gem 'sqlite3', '~>1.3.6'
  gem 'sinatra-activerecord', :require => 'sinatra/activerecord'
  gem 'rspec'
  gem 'database_cleaner'
+
+gem "byebug", "~> 11.1"
